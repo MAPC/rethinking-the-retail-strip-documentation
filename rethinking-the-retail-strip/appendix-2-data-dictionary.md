@@ -176,6 +176,6 @@ Columns not documented here are documented in “Massachusetts Land Parcel Datab
 {% endtab %}
 {% endtabs %}
 
-**Link to and dataset and shapfile:**
+**Link to full dataset and shapfile:**
 
-{% embed url="https://github.com/MAPC/rethinking-the-retail-strip-documentation/tree/gitbook/.gitbook/assets/shapefile" %}
+{% embed url="https://datacommon.mapc.org/browser/datasets/442" %}
